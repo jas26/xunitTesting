@@ -1,0 +1,14 @@
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\bin\Debug\netcoreapp2.2\CalculaterXunit.deps.json
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\bin\Debug\netcoreapp2.2\CalculaterXunit.runtimeconfig.json
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\bin\Debug\netcoreapp2.2\CalculaterXunit.runtimeconfig.dev.json
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\bin\Debug\netcoreapp2.2\CalculaterXunit.dll
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\bin\Debug\netcoreapp2.2\CalculaterXunit.pdb
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\obj\Debug\netcoreapp2.2\CalculaterXunit.csproj.CoreCompileInputs.cache
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\obj\Debug\netcoreapp2.2\CalculaterXunit.AssemblyInfoInputs.cache
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\obj\Debug\netcoreapp2.2\CalculaterXunit.AssemblyInfo.cs
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\obj\Debug\netcoreapp2.2\CalculaterXunit.dll
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\obj\Debug\netcoreapp2.2\CalculaterXunit.pdb
+c:\users\320035726\source\repos\SampleCalApi\CalculaterXunit\obj\Debug\netcoreapp2.2\CalculaterXunit.csprojAssemblyReference.cache
